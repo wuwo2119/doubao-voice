@@ -1,0 +1,24 @@
+# Doubao Voice 产物
+output/
+**/output/
+*.mp3
+*.wav
+*.pcm
+*.ogg
+*.opus
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Node
+node_modules/
+
+# 临时/产物
+tmp/
+*.log
+
+# 环境变量里的 Key 文件（如果本机放过）
+*.key
+.env
